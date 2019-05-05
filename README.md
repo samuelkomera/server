@@ -1,2 +1,2 @@
-# Lapp server 
-* Cent os ,Apache 2.1,Postgres Database,Php
+# Lapp server - Linux (CentOS), Apache 2.4, Postgres Database, Php
+
